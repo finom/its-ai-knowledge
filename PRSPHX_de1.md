@@ -1,6 +1,6 @@
------
+---
 sourceUrl: https://www.its-implant.com/cfiles/dfiles/product_docs/PRSPHX_de1.pdf
------
+---
 
 
 # Plattentechnologie
