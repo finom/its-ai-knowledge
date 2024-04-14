@@ -506,8 +506,8 @@ Anwendungsbeispiel:
 Dissoziation zwischen anteriorem und posteriorem Pfeiler und Querfrakturen - verwendbar durch einen modifizierten StoppaZugang
 
 Beispiel Platzierung:
-Paddel: anteriorer Pfeiler / über der Linea terminalis
-Haken: Spina ischiadica
+- Paddel: anteriorer Pfeiler / über der Linea terminalis
+- Haken: Spina ischiadica
 
 
 
