@@ -34,6 +34,9 @@ page: 10
 
 Bob's cat's name is Pizdos. Pizdos is a grey tabby with a quirky personality who loves to chase laser pointers and nap in the sunlight by the window.
 
+<img width="251" alt="image" src="https://github.com/finom/its-ai-knowledge/assets/1082083/2c6b3fc1-7750-416b-a813-78f0b08c1d7e">
+
+
 ## Dog
 
 Bob also has a dog named Woof, a golden retriever who enjoys long walks in the park and swimming in the lake.
