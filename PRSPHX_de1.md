@@ -59,9 +59,9 @@ Basierend auf den gesammelten Erfahrungen früherer Generationen (PRS und PRS RX
 fachmännischen Anleitung von Dr. Peter Bates, Dr. Paul Culpan, Dr. Georg Thewanger und Dr. Florian
 Baumann umfasst das neue PRS Phoenix-System aktualisierte Platten, Instrumente und Techniken.
 Die 3 Hauptvorteile des Systems der dritten Generation:
-• Optimiertes Plattendesign für den Stoppa-Zugang
-• Durchdachte Schraubenlochpositionen zur optimalen Schraubenplatzierung
-• Aus der Praxis entwickelte, verbesserte Repositionsinstrumente
+- Optimiertes Plattendesign für den Stoppa-Zugang
+- Durchdachte Schraubenlochpositionen zur optimalen Schraubenplatzierung
+- Aus der Praxis entwickelte, verbesserte Repositionsinstrumente
     
     
 
@@ -197,15 +197,15 @@ page: 14
 Die nichtwinkelstabile 3,5-mm-Kortikalisschrauben für das Kleinfragmentsystem wurden mit einem tieferen Sechskantausschnitt überarbeitet, der einen sichereren Sitz des Schraubendrehers in der Schraube ermöglicht. Darüber hinaus sind die neuen Schrauben Typ II anodisiert, was die Abriebeigenschaften der Schrauben verbessert. Durch die Kombination dieser neuen Merkmale kann der Sechskant des Schraubenkopfes beim Einbringen der Schraube einem höheren Drehmoment standhalten, was vor allem beim Einsetzen langer Schrauben wichtig ist, wie sie häufig bei Beckenverplattungen verwendet werden.
 
 3.5mm nichtwinkelstabile Kortikalisschraube:
-• Typ II anodisiert verbesserte Ermüdungs- und Abriebeigenschaften (siehe S. 52)
-• Tieferes Sechskantprofil Schraubendreher sitzt sicherer in der Schraube
-• Abgerundete Schraubenköpfe minimiert Risiko von Gewebeirritationen
+- Typ II anodisiert verbesserte Ermüdungs- und Abriebeigenschaften (siehe S. 52)
+- Tieferes Sechskantprofil Schraubendreher sitzt sicherer in der Schraube
+- Abgerundete Schraubenköpfe minimiert Risiko von Gewebeirritationen
 
 Ein einzigartiges Merkmal dieses Beckenverplattungssystems ist die Möglichkeit der Verwendung von Verriegelungsschrauben. Zusätzlich zur Aufnahme der oben beschriebenen nicht winkelstabilen 3,5mm Kortikalisschrauben bieten alle runden Schraubenlöcher auch die Möglichkeit, 4,2mm winkelstabile Spongiosaschrauben zu platzieren.
 
 4.2mm winkelstabile Spongiosaschraube:
-• Type II anodisiert verbesserte Ermüdungs- und Abriebeigenschaften (siehe S. 52)
-• Härteres Material als die Platte ermöglicht es dem Schraubenkopf, ein Gewinde in die Platte zu schneiden multidirektional, verriegelnd (innerhalb eines Konus von bis zu ± 15°)
+- Type II anodisiert verbesserte Ermüdungs- und Abriebeigenschaften (siehe S. 52)
+- Härteres Material als die Platte ermöglicht es dem Schraubenkopf, ein Gewinde in die Platte zu schneiden multidirektional, verriegelnd (innerhalb eines Konus von bis zu ± 15°)
 
     
     
@@ -218,13 +218,13 @@ Ein einzigartiges Merkmal dieses Beckenverplattungssystems ist die Möglichkeit 
 page: 15
 -->
 
-• Frakturen der hinteren Wand und des hinteren Pfeilers: Posteriore Beckenwandplatte Erw., Posteriore Beckenwandplatte, Posteriore Pfeilerplatte, Gebogene Platte
-• Frakturen des vorderen Pfeilers des Acetabulums: Rim Platte, Anteriore Pfeiler Platte, Gebogene Platte
-• Frakturen der quadrilateralen Fläche: Biplanare 2-Pfeiler Platte, Quadrilaterale Stützplatte, Rim Platte
-• Verletzungen der Symphyse & Para-symphysäre Frakturen: Symphysenplatte, Symphysenplatte, Gebogen
-• Iliumfrakturen: Gebogene Platte
-• Verletzungen des ISG: ISG Platte geschlossen, ISG Platte 5-Loch
-• Ilio-Iliacale Distanz-osteosynthese: Gerade Platte
+- Frakturen der hinteren Wand und des hinteren Pfeilers: Posteriore Beckenwandplatte Erw., Posteriore Beckenwandplatte, Posteriore Pfeilerplatte, Gebogene Platte
+- Frakturen des vorderen Pfeilers des Acetabulums: Rim Platte, Anteriore Pfeiler Platte, Gebogene Platte
+- Frakturen der quadrilateralen Fläche: Biplanare 2-Pfeiler Platte, Quadrilaterale Stützplatte, Rim Platte
+- Verletzungen der Symphyse & Para-symphysäre Frakturen: Symphysenplatte, Symphysenplatte, Gebogen
+- Iliumfrakturen: Gebogene Platte
+- Verletzungen des ISG: ISG Platte geschlossen, ISG Platte 5-Loch
+- Ilio-Iliacale Distanz-osteosynthese: Gerade Platte
 
     
     
@@ -369,11 +369,11 @@ enthält das System Beilagscheiben für einen optimalen Kontakt mit der Knocheno
 bei osteoporotischem Knochen.
 
 # 8.5 mm kanülierte Schrauben Indikationen
-• Beckenfrakturen
-• Distale Femurfrakturen
-• Proximale Tibiafrakturen
-• Frakturen und Arthrodesen des oberen und unteren Sprunggelenks
-• Calcaneusfrakturen und korrigierende Osteotomien
+- Beckenfrakturen
+- Distale Femurfrakturen
+- Proximale Tibiafrakturen
+- Frakturen und Arthrodesen des oberen und unteren Sprunggelenks
+- Calcaneusfrakturen und korrigierende Osteotomien
     
     
 
@@ -386,13 +386,13 @@ page: 22
 -->
 
 ## Kontraindikationen
-• Bestehende Infektionen in der Frakturzone und im Operationsbereich
-• Situationen, in denen keine Osteosynthese möglich ist
-• Adipositas
-• Mangelnde Patientencompliance
+- Bestehende Infektionen in der Frakturzone und im Operationsbereich
+- Situationen, in denen keine Osteosynthese möglich ist
+- Adipositas
+- Mangelnde Patientencompliance
 
 ## Operationszeit für PRS Phoenix
-• Unmittelbar nach dem Trauma oder verzögert
+- Unmittelbar nach dem Trauma oder verzögert
     
 
 <!-- 
@@ -1094,9 +1094,9 @@ Chemischer Prozess - anodische Oxidation in einer starken alkalischen Lösung*
 - Schichtdicke 60-200nm
   + Verschiedene Farben
   - Implantatoberfläche bleibt anfällig durch:
-    • Absplittern
-    • Abblättern
-    • Verfärbung
+    - Absplittern
+    - Abblättern
+    - Verfärbung
 
 ## Type II Anodisierung
 - Schichtdicke 2000-10 000nm
