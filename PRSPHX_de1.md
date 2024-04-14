@@ -279,7 +279,7 @@ Als Teil des Systems sind sowohl winkelstabile als auch nicht-winkelstabile Schr
 
 Das PRS Großfragment-System enthält ein Erweiterungssystem (eine Verbindungsschraube und einen Bolzen), welches die Kombination einer oder mehrerer Platten ermöglicht und so die Behandlung komplexerer Frakturen erleichtert.
 
-# PRS Phoenix - Großfragment Indikationen
+## PRS Phoenix - Großfragment Indikationen
 
 Für alle Beckenverletzungen, einschließlich Beckenringverletzungen und Hüftgelenksfrakturen.
     
