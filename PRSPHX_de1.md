@@ -368,7 +368,7 @@ eignen sich für minimal-invasive Methoden sowie für die Platzierung durch eine
 enthält das System Beilagscheiben für einen optimalen Kontakt mit der Knochenoberfläche, insbesondere
 bei osteoporotischem Knochen.
 
-# 8.5 mm kanülierte Schrauben Indikationen
+## 8.5 mm kanülierte Schrauben Indikationen
 - Beckenfrakturen
 - Distale Femurfrakturen
 - Proximale Tibiafrakturen
