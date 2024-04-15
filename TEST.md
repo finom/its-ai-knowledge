@@ -10,7 +10,7 @@ page: 8
 
 Bob recently decided to renovate his apartment. The walls of his apartment are now painted a vibrant shade of pink, which gives a cheerful and lively vibe. He also installed new hardwood floors, which are a stark contrast to the pink walls, giving his apartment a modern look.
 
-# Appliances in Bob's Kitchen
+# Appliances in Bob's Awesome Kitchen
 
 <!-- 
 page: 9
