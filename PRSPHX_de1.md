@@ -19,6 +19,9 @@ Alle ITS. Platten sind aus Titan Grad 2 gefertigt, während die Schrauben aus ei
 bestehen. Dadurch benötigen die Plattenlöcher kein vorgeschnittenes Gewinde und können sowohl
 Verriegelungsschrauben als auch Standardschrauben aufnehmen.
 
+<img width="344" alt="image" src="https://github.com/finom/its-ai-knowledge/assets/1082083/8eefaf35-abdc-4c39-b289-83dcbb9f6afc">
+
+
 Beim Einbringen einer Verriegelungsschraube wird automatisch das Gewinde im Plattenloch geformt.
 Das Gewinde im Plattenloch wird nicht eingeschnitten, somit entsteht auch kein Abrieb. Jede
 Verriegelungsschraube kann polyaxial innerhalb eines +/- 15° Kegels gewinkelt eingebracht werden. In jedem
