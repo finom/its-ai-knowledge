@@ -17,11 +17,12 @@ Speziell bei komplexeren Frakturen bietet die freie Winkelwahl (+/- 15°, siehe 
 ![image](https://github.com/finom/its-ai-knowledge/assets/24526424/7003acd0-afd3-4e78-9af8-459d94e50570)
 
 
+# Schrauben
+
 <!-- 
 page: 6
 -->
 
-# Schrauben
 - 32351-XX-N: Kortikalisschraube, winkelst., D=3.5mm, kurzer Kopf
 - 61273-100: Spiralbohrer, D=2.7mm, L=100mm, AO-Anschluss
 - 56252: Schraubenzieher, SW 2.5, mit Selbsthaltehülse
