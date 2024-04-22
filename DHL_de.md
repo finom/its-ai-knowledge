@@ -2,13 +2,11 @@
 sourceUrl: https://www.its-implant.com/cfiles/dfiles/product_docs/DHL_de.pdf
 ---
 
-# Einleitung
+# Vorwort
 
 <!-- 
 page: 5
 -->
-
-# Vorwort
 
 Die winkelstabilen distalen Humerusplatten bewähren sich zur Osteosynthese differenter Frakturen des distalen Humerus. Die Besonderheit dieses Implantates liegt in der individuellen frei wählbaren Lochbelegung.
 
