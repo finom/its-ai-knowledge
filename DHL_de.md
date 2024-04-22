@@ -37,11 +37,11 @@ page: 6
 
 - 35164-150: Führungsdraht, Stahl, D=1.6mm, L=150mm, TR, mit Gewinde
 
+# Eigenschaften
+
 <!-- 
 page: 7
 -->
-
-# Eigenschaften
 
 ## Materialeigenschaften:
 - Plattenmaterial: Titan
@@ -64,11 +64,11 @@ page: 7
 ![image](https://github.com/finom/its-ai-knowledge/assets/24526424/1345eb4b-ea50-4ce2-9a6c-fce4d860f0ed)
 
 
+# Indikationen, Kontraindikationen & OP-Zeitpunkt
+
 <!-- 
 page: 8
 -->
-
-# Indikationen, Kontraindikationen & OP-Zeitpunkt
 
 ## Indikationen:
 - Supra- und diakondyläre Oberarmfrakturen
@@ -85,11 +85,12 @@ page: 8
 - Bei nicht primärer Operation, Ruhigstellung in einer Schiene
 
 
+# Lagerung des Patienten
+
 <!-- 
 page: 10
 -->
 
-# Lagerung des Patienten
 - Allgemeinanästhesie, Regionalanästhesie oder kombiniert
 - Der Patient befindet sich in Bauchlage
 - Blutsperre
@@ -101,22 +102,26 @@ page: 10
 - Abhängig von der Bruchform Olecranonosteotomie und Weghalten des Trizeps
 - Bei suprakondylären Frakturen eventuell ulnar- und radialseitiges Eingehen neben der Sehne des Trizeps brachii
 
+
+# Reposition
+
 <!-- 
 page: 11
 -->
 
-# Reposition
 - Temporäre Fixation der Platte am Humerus mit Hilfe von Führungsdrähten
 - Anatomische Reposition der Frakturteile an die Platte
 - Anschließende Bildwandlerkontrolle
 
 Optional besteht die Möglichkeit, die Platte mit dem Temporary Plate Holder (58164-150) der Firma ITS. temporär zu fixieren.
 
+
+# Platzieren der Schrauben
+
 <!-- 
 page: 12
 -->
 
-# Platzieren der Schrauben
 Mit dem Spiralbohrer, D=2.7mm, L=100mm, AO-Anschluss (61273-100) durch die Bohrführung, D=2.7/2.0mm (62202) in das Kompressionsloch bohren.
 Entsprechend der gemessenen Länge mit der Schraubenlängenmesslehre, Solide Kleinfragmentschrauben (59022) wird nun eine D=3.5mm Kortikalisschraube (32351-XX) mit dem Schraubenzieher, SW 2.5, mit Selbsthaltehülse (56252) eingebracht.
 
@@ -135,11 +140,12 @@ page: 14
 Danach erfolgt die Belegung der übrigen Plattenlöcher, wahlweise mit winkelstabilen oder nicht winkelstabilen Schrauben.
 Abschließende Kontrolle der Plattenlage im Bildwandler.
 
+# Nachbehandlung
+
 <!-- 
 page: 15
 -->
 
-# Nachbehandlung
 - Physiotherapie direkt nach der Operation (keine Ruhigstellung notwendig)
 - Bei schlechter Knochenqualität oder unsicherer Fixation Bewegungsfixateur für maximal 6 Wochen oder Oberarmspaltgips für maximal 3 Wochen
 - Bei winkelstabiler Verschraubung ist darauf zu achten, dass Pseudoarthrose sehr spät diagnostiziert werden kann
@@ -150,11 +156,12 @@ Abhängig vom Patientenwunsch ist eine Entfernung möglich. Entfernung des Impla
 
 Die Problematik der Kaltverschweißung konnte durch die spezielle Oberflächenbehandlung beseitigt werden (für genauere Informationen siehe Seite 17).
 
+# Locking
+
 <!-- 
 page: 17
 -->
 
-# Locking
 ## Funktionsweise von Locking:
 - Schraubenmaterial (TiAlV) ist etwas härter als das Plattenmaterial (Titanium Grade 2)
 - Schraubenkopf formt ein Gewinde in die Platte (kein Schneiden)
