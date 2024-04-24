@@ -173,7 +173,12 @@ page: 17
 - Kein Materialabrieb beim Einschrauben
 - Wiedereinschrauben der Schraube (bis zu drei mal)
 
-## Dotize®
+# Dotize®
+
+<!-- 
+page: 17
+-->
+
 ## Chemischer Prozess - anodische Oxidation in einer starken alkalischen Lösung*
 ## Typ III Anodisierung
 - Schichtdicke 60-200nm
