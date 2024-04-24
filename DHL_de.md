@@ -95,6 +95,8 @@ page: 10
 - Der Patient befindet sich in Bauchlage
 - Blutsperre
 
+![image](https://github.com/finom/its-ai-knowledge/assets/24526424/1dab0003-2001-45e5-878f-8c3818ec35bc)
+
 # Zugang
 
 <!-- 
@@ -106,6 +108,8 @@ page: 10
 - Freilegung des Nervus ulnaris und Weghalten desselben
 - Abhängig von der Bruchform Olecranonosteotomie und Weghalten des Trizeps
 - Bei suprakondylären Frakturen eventuell ulnar- und radialseitiges Eingehen neben der Sehne des Trizeps brachii
+
+![image](https://github.com/finom/its-ai-knowledge/assets/24526424/98bac9c9-a262-4d6e-a637-1bb7e4ba9191)
 
 
 # Reposition
