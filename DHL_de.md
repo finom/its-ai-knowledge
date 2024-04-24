@@ -150,7 +150,7 @@ page: 15
 - Bei schlechter Knochenqualität oder unsicherer Fixation Bewegungsfixateur für maximal 6 Wochen oder Oberarmspaltgips für maximal 3 Wochen
 - Bei winkelstabiler Verschraubung ist darauf zu achten, dass Pseudoarthrose sehr spät diagnostiziert werden kann
 
-# Explantation
+## Explantation
 
 Abhängig vom Patientenwunsch ist eine Entfernung möglich. Entfernung des Implantates nicht vor 1/2 - 1^1 /2 Jahren bzw. nach radiologisch verifizierter Knochenheilung.
 
@@ -173,7 +173,7 @@ page: 17
 - Kein Materialabrieb beim Einschrauben
 - Wiedereinschrauben der Schraube (bis zu drei mal)
 
-# Dotize®
+## Dotize®
 ## Chemischer Prozess - anodische Oxidation in einer starken alkalischen Lösung*
 ## Typ III Anodisierung
 - Schichtdicke 60-200nm
