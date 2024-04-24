@@ -96,6 +96,11 @@ page: 10
 - Blutsperre
 
 # Zugang
+
+<!-- 
+page: 10
+-->
+
 ## Posteriorer Zugang:
 - Medianer Hautschnitt am distalen Oberam über den Ellenhaken auf die Ellenkante
 - Freilegung des Nervus ulnaris und Weghalten desselben
@@ -150,7 +155,11 @@ page: 15
 - Bei schlechter Knochenqualität oder unsicherer Fixation Bewegungsfixateur für maximal 6 Wochen oder Oberarmspaltgips für maximal 3 Wochen
 - Bei winkelstabiler Verschraubung ist darauf zu achten, dass Pseudoarthrose sehr spät diagnostiziert werden kann
 
-## Explantation
+# Explantation
+
+<!-- 
+page: 15
+-->
 
 Abhängig vom Patientenwunsch ist eine Entfernung möglich. Entfernung des Implantates nicht vor 1/2 - 1^1 /2 Jahren bzw. nach radiologisch verifizierter Knochenheilung.
 
