@@ -173,7 +173,7 @@ page: 13
   - 16 Loch
   - 20 Loch
  
-![image psd](https://github.com/user-attachments/assets/ac4f1841-9d83-472b-9c51-7a8a06332074)
+![image](https://github.com/user-attachments/assets/ac4f1841-9d83-472b-9c51-7a8a06332074)
 
 - Rim Platte (Dicke: 2.5mm)
   - 14 Loch, Rechts
@@ -532,6 +532,7 @@ Arm A: Ischias-Kerbe
 Arm B: anteriorer Pfeiler
 Aktion: Komprimieren einer anterioren Pfeilerfraktur entweder direkt am Knochen oder über eine der vorgesehenen Platten
 
+![image](https://github.com/user-attachments/assets/efd46da3-8070-43f4-b249-7555b8b68c16)
 
 ## Gewinkelte Zange “Goose Neck”
 Anwendungsbeispiel:
@@ -541,7 +542,7 @@ Beispiel Platzierung:
 Arm A: lateral supra-acetabulär am Ilium (unter den Gesäßmuskeln)
 Arm B: quadrilaterale Fläche (hinter der IschiasKerbe)
 
-
+![image](https://github.com/user-attachments/assets/c2e3d8f7-8456-436d-8a07-10c0008d0954)
 
 <!-- 
 page: 28
@@ -555,11 +556,15 @@ Gerader Arm: Durch das laterale Fenster über der Ischias-Kerbe
 Ausladender Arm: Perkutan durch den Gesäßmuskel auf die posteriore Wand
 TIPP: Der ausladende Arm ist kanüliert und dient als Gewebeschutzhülse, sodass eine kanülierte 6.5mm-Schraube eingesetzt werden kann. (6.5mm kanüliertes Schraubensystem optional erhältlich) Für diese Anwendung muss der längere Schraubendreher verwendet werden (54502-150).
 
+![image](https://github.com/user-attachments/assets/7eb468c1-b0ff-4846-a6d8-74c7562b78f1)
+
 ## Lineare Hakenrepositionszange
 “Bead Hook”
 
 Assembly:
 Die Pelvic Linear Hook-Aufsätze sind sowohl für die rechte als auch für die linke Seite des Beckens erhältlich. Das Pelvic Ring Thrust  Pad (gezahnt 64006-6 oder ballspike 64006-7) muss immer auf dem Beckenrand aufliegen können. Dieses Teil wird seitlich in den Klammeraufsatz (rechts 64006-3 / links 64006-2) geschraubt, so dass die Kontaktfläche medial zum Aufsatzarm liegt.
+
+![image](https://github.com/user-attachments/assets/ca4e0031-3e76-4e1c-bccc-f8c076f23d8f)
 
 Anwendungsbeispiel:
 Dissoziation zwischen anteriorem und posteriorem Pfeiler und Querfrakturen - verwendbar durch einen modifizierten StoppaZugang
@@ -568,10 +573,7 @@ Beispiel Platzierung:
 - Paddel: anteriorer Pfeiler / über der Linea terminalis
 - Haken: Spina ischiadica
 
-
-
-    
-    
+![image](https://github.com/user-attachments/assets/f6820925-f884-42bd-89b7-e5594c3cf9f8)
 
 
 # Plattenkonturierung und Biegung
@@ -589,17 +591,19 @@ Verwenden Sie zum Biegen oder Verdrehen entlang der Achse der Platte die Biegein
 Die Biegeeisen an zwei aufeinanderfolgenden Löchern an der Platte anbringen und die benötigte Biegung oder Verdrehung durchführen. Wenn Sie die Biegeinstrumente stets an aufeinanderfolgende Löcher anbringen, erzielt man eine gleichmäßige
 Biegung und eine Verformung der Löcher wird vermieden.
 
+![image](https://github.com/user-attachments/assets/1930cb9c-28d5-4906-84af-76daa23d4fa4)
+
 Um den Radius der Platte zu vergrößern oder verkleinern, die Biegezange (64007) verwenden. 
 
 Die Biegezange kann für Kleinfragmentplatten und Großfragmentplatten verwendet werden, indem man die Biegezange um 180° dreht. Eine gleichmäßige Biegung erzielt man am besten, indem an mehreren Stellen entlang der Platte viele kleine Biegungen macht. Dies verringert das Risiko einer Verformung der Plattenlöcher.
+
+![image](https://github.com/user-attachments/assets/79d79af3-9e71-4ccf-83d0-59fc23eb2680)
 
 Für kleine Anpassungen der Platte am Knochen können die In-Situ-Biegeinstrumente (66261, 66262 und 66263, im Repositionsinstrumente-Set enthalten) verwendet werden.
 
 Die In-Situ-Biegeinstrumente müssen in benachbarten Löchern verwendet werden. Überspringen Sie keine Löcher, da dies das Risiko einer Lochverformung erhöht.
 
-    
-    
-
+![image](https://github.com/user-attachments/assets/b74e4358-61fe-47e8-b022-33980d5d67bb)
 
 # Einbringen der Schrauben
 
@@ -619,6 +623,8 @@ Bohrführung bis zur gewünschten Tiefe (bikortikal oder unikortikal).
 4. Alternativ kann eine separate Messlehre verwendet werden, um die erforderliche Schraubenlänge basierend auf dem Bohrloch zu messen.
 5. Setzen Sie die Schraube mit dem im System entsprechenden Schraubendreher ein.
 
+![image](https://github.com/user-attachments/assets/01f06d6f-f533-4c26-a57f-f4622acca147)
+
 ## Kleinfragment
 - 32352-XX:
 NICHT WINKELSTABIL
@@ -630,6 +636,8 @@ WINKELSTABIL
 Spongiosaschraube, D=4.2mm
 Spiralbohrer, D=2.5mm
 Sechskant, SW 2.5
+
+![image](https://github.com/user-attachments/assets/65e8407c-2246-4c47-a9b0-b93d04aa0517)
 
 ## Großfragment
 - 32455-XX:
@@ -655,8 +663,7 @@ Spongiosaschraube, D=5.9mm
 Spiralbohrer, D=3.5mm,
 Sechskant, SW 3.5
 
-    
-    
+![image](https://github.com/user-attachments/assets/29f153fe-e2a9-49f9-97e3-bced3ad9e653)    
 
 
 # 8.5 mm kanülierte Schrauben
@@ -669,21 +676,29 @@ page: 31
 
 ## Einbringung des Führungsdrahts:
 1. Führen Sie den 3.2mm Führungsdraht (35321-435) durch die K-Draht-Hülse in der MIS-Gewebeschutzhülse (64018) entweder durch den offenen Zugang oder durch eine Stichinzision ein. Kontrollieren Sie die korrekte Position unter Röntgenkontrolle.
+
+![image](https://github.com/user-attachments/assets/2d001bb5-5854-424d-9320-025e6ac19c44)
+
 ## Identifizierung der Schraubenlänge:
 2. Entfernen Sie die K-Draht-Hülse und legen Sie die Schraubenmesslehre (59328) über den Führungsdraht und führen Sie es durch die Gewebeschutzhülse bis zum Knochen ein. Lesen Sie dann die erforderliche Länge am Ende des kalibrierten Führungsdrahtes ab.
 TIPP: Auf Wunsch kann das Tiefenmessgerät als Stand-Alone ohne MIS Tissue Protection Sleeve verwendet werden. Auch in diesem Fall sollte der Tiefenmesser bis auf die Knochen gedrückt werden.
+
+![image](https://github.com/user-attachments/assets/39748479-ab31-4785-b54d-7c84af42fe72)
+
 ## Vorbohren (Optional):
 3. Bei starkem kortikalem Knochen ist bei Bedarf ein Vorbohren erforderlich. Führen Sie beim Bohren den Bohrer (61620420) durch die Gewebeschutzhülse und bohren Sie bis zur gewünschten Tiefe. Überprüfung durch Röntgenkontrolle.
 TIPP: Alternativ kann beim Vorbohren die Schraubenlänge an den kalibrierten Markierungen auf dem Bohrer gegen die Bohrhülse abgelesen werden.
+
+![image](https://github.com/user-attachments/assets/1c2b07da-e661-4bc0-986f-c7fc572f4a1f)
+
 ## Beilagscheibe (Optional):
 4. Bei Bedarf kann eine Beilagscheibe zusammen mit der Schraube eingesetzt werden, indem die Beilagscheibe auf die MISGewebeschutzhülse aufgesetzt wird. Die Beilagscheibe wird durch das Einschrauben der Schraube automatisch gelöst.
 HINWEIS: Durch die zusätzliche Knochenkontaktfläche wird die Schraubenlast über einen größeren Bereich verteilt und das Einsinken des Schraubenkopfs bei osteoporotischem Knochen verringert.
+
+![image](https://github.com/user-attachments/assets/03c7c662-4b96-47e8-aa73-2b8b1fa57119)
+
 ## Platzierung der Schraube:
 5. Setzen Sie die kanülierte D=8.5mm Spongiosaschraube (Volloder Teilgewinde) über den Führungsdraht und führen Sie sie mit dem kanülierten Schraubendreher (54502-250 oder 56502220) ein. Entfernen Sie zum Schluss den Führungsdraht und kontrollieren Sie die korrekte Position durch Röntgenkontrolle.
-
-    
-    
-
 
 # Frakturen der posterioren Wand und des posterioren Pfeilers
 
@@ -696,6 +711,8 @@ page: 32
 - Posteriore Beckenwandplatte
 - Posteriore Pfeilerplatte
 - Gebogene Platte
+
+![image](https://github.com/user-attachments/assets/31bd7e02-22a6-4777-852d-5e6d80ed2031)
 
 ## Zugang
 1. Zugang nach Kocher-Langenbeck und möglicherweise Trochanter-Osteotomie mit chirurgischer Hüftluxation.
@@ -719,7 +736,7 @@ TIPP: Eine Schanz-Schraube kann im Bereich des Tuber ischiadicum eingebracht wer
 
 3. Überprüfen Sie die Reposition mittels Röntgenkontrolle
 
-    
+![image](https://github.com/user-attachments/assets/08066177-7917-48ab-8457-9532b416c90d)
 
 <!-- 
 page: 33
@@ -742,10 +759,6 @@ TIPP: Zur zusätzlichen Fixierung von schalenförmigen Fragmenten können bei Ve
 Fixations-Spikes (optional) in die Platte eingeschraubt werden, die ein Verrutschen des posterioren Wandfragments verhindern.
 
 
-    
-    
-
-
 # Frakturen des anterioren Pfeilers des Acetabulums
 
 
@@ -757,6 +770,9 @@ page: 34
 - Gebogene Platte
 - Rim Platte
 
+![image](https://github.com/user-attachments/assets/2030e460-825a-4527-bf79-2a5af88fe0c2)
+
+
 ## Zugang:
 1. Anteriorer Zugang nach Präferenz des Chirurgen (modifizierter Stoppa / pararectus / ilioinguinal)
 ## Frakturreposition
@@ -764,6 +780,9 @@ page: 34
 HINWEIS: Repositionszangen, die mit einer leicht befestigten Platte verwendet werden, ermöglichen eine zusätzliche Feinreposition
 und können eine iatrogene Fraktur verhindern, da sich die Kraft unter der Platte verteilt.
 3. Überprüfen Sie die Reposition mittels Röntgenkontrolle
+
+![image](https://github.com/user-attachments/assets/6c6c652e-af6f-4233-b775-03d4380ff728)
+
 ## Plattenpositionierung
 4. Bestimmen Sie den richtigen Plattentyp und Größe abhängig von der Patientenanatomie und der Frakturcharakteristik.
 5. Führen Sie die Platte unter den Gefäßen und dem M. iliopsoas auf die Oberfläche des anterioren Pfeilers
@@ -783,7 +802,6 @@ Plattenlöcher wurden so positioniert, dass sie optimale Fixiermöglichkeiten f�
 
 # Frakturen der quadrilateralen Fläche des Acetabulum
 
-
 <!-- 
 page: 35
 -->
@@ -791,6 +809,8 @@ page: 35
 - Biplanare 2-Pfeiler Platte
 - Quadrilaterale Abstützplatte
 - Rim Platte
+
+![image](https://github.com/user-attachments/assets/eb112795-085d-49f1-a337-ea3d33f34b27)
 
 ## Zugang:
 1. Anteriorer Zugang je nach Präferenz des Chirurgen (modifizierter Stoppa / para-rectus / ilioinguinal)
@@ -835,7 +855,7 @@ Dislokation zu korrigieren).
 15. Platzieren Sie bei Bedarf zusätzliche Schrauben, die von medial nach lateral über das Stoppa-Fenster platziert werden.
 16. Befestigen Sie die Platte sicher anterior im Os pubis.
 
-    
+![image](https://github.com/user-attachments/assets/e67a7926-d7a4-4825-9fe0-445af69218b4)
 
 <!-- 
 page: 37
@@ -853,6 +873,8 @@ lange, abgewinkelte Kugelspieß im hinteren Loch des Regenbogenschlitzes, der da
 HINWEIS: Vor dem finalen Positionieren der Platten überprüfen, ob sich unter der Ischias-Stützlasche keine Weichteile befinden.
 - Überprüfen Sie die angemessene Plattenposition unter Röntgenkontrolle. Die Platte sollte durch eines der Löcher nach unten gedrückt werden, wobei das 45 ° -Nutzungsloch zu vermeiden ist.
 HINWEIS: Das 45° -Loch muss in der AP-Ansicht über dem Hüftgelenk sitzen.
+![image](https://github.com/user-attachments/assets/6033bacb-25c6-4c80-943f-55cc8eb99aab)
+
 - Platzieren Sie eine Schraube in das 45° -Zentralloch in der Mitte der Platte.
 TIPP: Je orthogonaler zur Platte, desto stärker wirkt die Schraube.
 HINWEIS: Das Ziel dieser Schraube ist es, Repositionskräfte in beiden Ebenen der Platte sowohl gegen den anterioren Pfeiler als auch gegen die quadrilaterale Fläche / posterioren Pfeiler nach unten zu bringen.
@@ -862,8 +884,7 @@ der “Haifischflosse” selbst eingesetzt wird.
 - Um die Reposition des anterioren Pfeilers zu verbessern, platzieren Sie zusätzliche Schrauben in den anterioren Bereich der Platte.
 - Setzen Sie nach Bedarf weitere Schrauben ein und ziehen Sie alle losen Schrauben fest.
 
-    
-    
+![image](https://github.com/user-attachments/assets/d141b5bb-b7e7-41ce-8e8c-47682153f146)   
 
 
 # Platzierung der infra-acetabulären Schraube
@@ -876,6 +897,9 @@ page: 38
 Basierend auf Letournel wurden die Biplanare 2-Pfeiler-Platte und die Anteriore Pfeilerplatte so konstruiert, dass sie ein Langloch zum Platzieren einer infra-acetabulären Schraube enthalten.
 - Biplanar 2-Pfeiler Platte
 - Anteriore Pfeilerplatte
+
+![image](https://github.com/user-attachments/assets/2cbf3af8-2976-42dd-a595-6939ed276c47)
+
 Eine infra-acetabuläre Schraube ist ein nützliches Feature, um den anterioren Pfeiler am posterioren Pfeiler zu befestigen, indem ein „peri-acetabularer Rahmen“ konstruiert wird - nach Letournel eine Fixierung beider Pfeiler über und unter dem Acetabulum. Die Rekonstruktion des physiologischen Abstands zwischen anteriorem und posteriorem Pfeiler ist essentiell, um eine intra-pelvine Protrusion des Femurkopfes zu vermeiden. Der infra-acetabuläre Schraubenkorridor entspricht der Köhlerschen Tränenfigur in der AP-Ansicht des Beckens.
 
 ## Indikation 
@@ -905,8 +929,7 @@ Sie den Bohrer in einem Winkel von 10° sagittal und 70° axial.
 6. Der Chirurg kann die Vibration des Bohrers, durch Tasten am kaudalen Rand der quadrilateralen Fläche spüren.
 7. Nach dem Einsetzen der Schraube ist eine fluoroskopische Beurteilung der Schraubenposition erforderlich, um eine intra-artikuläre oder intra-pelvine Schraubenpositionierung auszuschließen.
     
-    
-
+![image](https://github.com/user-attachments/assets/2527bc5c-c297-4a1e-af4e-f38e0d65f362)
 
 # Verletzungen der Symphse & para-symphysäre Frakturen
 
@@ -917,6 +940,8 @@ page: 40
 
 - Symphysenplatte
 - Symphysenplatte Gebogen
+
+![image](https://github.com/user-attachments/assets/16c683d8-c9d7-4455-92ee-b2fb29bbb62f)
 
 ## Zugang:
 1. Chirurgischer Zugang über Pfannenstiel oder anteriorer Mittellinieninzision und Rektusspaltung
@@ -951,11 +976,10 @@ page: 41
 HINWEIS: Wenn eine 6- oder 8-Loch-Platte verwendet wird, sind die beiden äußersten Schrauben normalerweise kürzere Schrauben über dem Foramen obturatum.
 13. Einbringen zusätzlicher Schrauben, falls erforderlich
     
-    
+![image](https://github.com/user-attachments/assets/0fa55ff1-4a95-4016-8eb6-56bfadeb5bb2)
 
 
 # Frakturen des Ilium
-
 
 <!-- 
 page: 42
@@ -963,12 +987,17 @@ page: 42
 
 - Gebogene Platte
 
+![image](https://github.com/user-attachments/assets/32b8c5ef-c72a-478b-aa86-61ae3d521a09)
+
 ## Zugang:
 1. Laterales Fenster oder Para-rectus Zugang
 ## Frakturreposition 
 2. Reposition der Fraktur mittels Weber- oder Jungbluth-Zange und, wenn notwendig, temporäre Fixierung über K-Drähte.
 TIPP: Das Anbringen einer Schanz-Schraube in der anterioren superioren Spina iliaca kann hilfreich sein.
 3. Überprüfen Sie die Plattenposition mittels Röntgekontrolle.
+
+![image](https://github.com/user-attachments/assets/22052f24-923b-47c6-91c1-c0a0594e981e)
+
 ## Plattenpositionierung
 4. Bestimmen Sie den richtigen Plattentyp und Größe abhängig von vorliegenden Beckenanatomie.
 5. Anpassen und Anlegen der Platte unter der Verwendung einer Biegevorrichtung/eines Biegeinstruments. - siehe S. 29 Plattenkonturierung und Biegung
@@ -991,6 +1020,8 @@ page: 43
 - ISG Platte Geschlossen 
 - ISG Platte 5-Loch
 
+![image](https://github.com/user-attachments/assets/92a5a0cd-22d0-45d3-8960-2acbd848b019)
+
 ## Zugang:
 1. Antero-Lateraler Zugang oder erstes Fenster im Rahmen eines Ilio-inguinalen Zugangs.
 ## Frakturreposition
@@ -1007,7 +1038,7 @@ HINWEIS: Wenn Sie die Zangen über das ISG positionieren, ist die L5-Nervenwurze
 8. Einbringen von Spongiosa- oder Kortikalisschrauben (wahlweise winkelstabil) in die entsprechenden Plattenlöcher. - siehe S. 30 zur Anleitung für das Einbringen der Schraube
 HINWEIS: Das IS-Gelenk ist von posterior medial nach posterior lateral um 20° gewinkelt. Um sicherzustellen, dass die Schrauben nicht in das Gelenk eingebracht werden, muss der Bildwandler genau in einem Neigungswinkel von 20° platziert werden.
     
-    
+![image](https://github.com/user-attachments/assets/d054cc52-104d-43d9-ae83-92cd3b5a2d4c)
 
 
 # Dorsale Neutralisationsverplattung bei posterioren Beckenringfrakturen
@@ -1018,6 +1049,8 @@ page: 44
 -->
 
 - Gerade Platte
+
+![image psd(4)](https://github.com/user-attachments/assets/b729c1a2-870c-4f46-a3b0-e0c3aa00849c)
 
 ## Zugang:
 1. Patient in Bauchlage bringen
@@ -1055,6 +1088,8 @@ page: 45
 HINWEIS: Wenn möglich sicherstellen, dass die Schrauben weder in das Kreuzbein- noch das Iliosacralgelenk ragen.
 TIPP: Durch die Verwendung kurzer, winkelstabiler Schrauben von lateral kann eine sehr hohe Torsionssteifigkeit erzielt werden.
 
+![image](https://github.com/user-attachments/assets/80ddc8d4-a3e2-4d52-9689-32cdc21ddb85)
+
 ## Nachbehandlung
 Die Nachbehandlung kann variieren, abhängig vom Frakturtyp, der Knochenqualität und dem Alter des Patienten.
 
@@ -1085,17 +1120,21 @@ Information
 
 # Technische Information
 
+# Kleinfragment Platten
 
 <!-- 
 page: 48
 -->
 
+![image](https://github.com/user-attachments/assets/58cfa897-4e68-499c-8017-c45362115a10)
     
+# Großfragment Platten
 
 <!-- 
 page: 49
 -->
 
+![image](https://github.com/user-attachments/assets/7ba71322-4bfd-49fd-8030-a06f2d4b3675)
 
     
     
@@ -1109,6 +1148,8 @@ page: 50
 -->
 
 ## Zangengriff für Repositionsinstrumente
+
+![image](https://github.com/user-attachments/assets/81eb9d84-934a-44a6-8ef7-ccad99f4c143)
 
 ### Demontage
 1. Lösen Sie die kleine Madenschraube (A) und entfernen Sie die Gleitschiene von der Befestigungsstelle (auf B).
@@ -1130,6 +1171,9 @@ page: 51
 -->
 
 ## Plattenhalter
+
+![image](https://github.com/user-attachments/assets/9fa02a81-8e74-4ac9-868d-89078d93b097)
+
 ### Demontage
 1. Schrauben Sie den langen Stangenschieber (A) ab und entfernen Sie ihn.
 2. Schrauben Sie die Befestigungsschraube (B) heraus und entfernen Sie den Stift (C).
@@ -1161,6 +1205,8 @@ Chemischer Prozess - anodische Oxidation in einer starken alkalischen Lösung*
 - Schichtdicke 2000-10 000nm
   + Film wird ein interstitieller Teil des Titans
   - Kein sichtbarer kosmetischer Effekt
+
+![image](https://github.com/user-attachments/assets/f8cbd9f6-26ae-4007-a5ac-15abb7ad2be7)
 
 ## Typ II Anodisierung führt zu folgenden Vorteilen*
 - Sauerstoff und Silizium absorbieren die Konversionsschicht
