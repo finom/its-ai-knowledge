@@ -48,11 +48,10 @@ A. Kleinfragmentset
 B. Großfragmentset
 C. Repositionsinstrumentarium
 D. 8,5mm kanülierte Schrauben
-    
-    
+
+![image](https://github.com/user-attachments/assets/afd521c3-e2c5-45ce-bfdc-a8c74a6d83e6)
 
 # Beckensystem der dritten Generation
-
 
 <!-- 
 page: 10
@@ -66,11 +65,9 @@ Die 3 Hauptvorteile des Systems der dritten Generation:
 - Durchdachte Schraubenlochpositionen zur optimalen Schraubenplatzierung
 - Aus der Praxis entwickelte, verbesserte Repositionsinstrumente
     
-    
-
+![image](https://github.com/user-attachments/assets/3e3181f1-9769-4c83-b4d8-6b08b81265f2)
 
 # PRS Phoenix - Kleinfragmentsystem (A)
-
 
 <!-- 
 page: 11
@@ -100,6 +97,7 @@ page: 11
 - Anteriore Verlängerung der Platte, um eine einfache Konturierung zu ermöglichen, passend zur Anatomie des Patienten.
 - Medialer Flansch zur Abstützung der quadrilateralen Fläche
 
+![image](https://github.com/user-attachments/assets/411fa38b-ec3f-4814-96e5-27172aa9343a)
 
 Alle drei Platten sind mit vorgewinkelten Löchern (oder Langlöchern) ausgestattet, um die Schraubenplatzierung von allen gängigen anterioren Zugängen zu ermöglichen.
     
@@ -116,35 +114,46 @@ Das Kleinfragmentsystem besteht aus verschiedenen anatomisch vorgeformten Platte
   - 14 Loch, Links
   - 16 Loch, Rechts
   - 16 Loch, Links
+ 
+![image](https://github.com/user-attachments/assets/5d3bf5f4-8acd-4cba-95c0-93c977979b81)
+
 - Biplanare 2-Pfeiler Platte (Dicke: 2.5mm)
   - 10 Loch, Rechts
   - 10 Loch, Links
   - 12 Loch, Rechts
   - 12 Loch, Links
+ 
+![image](https://github.com/user-attachments/assets/e883097d-6210-4ca0-8fd1-929011b918e4)
+
 - Quadrilaterale Stützplatte (Dicke: 2.5mm)
   - 11 Loch, Rechts
   - 11 Loch, Links
   - 13 Loch, Rechts 
   - 13 Loch, Links
+ 
+![image](https://github.com/user-attachments/assets/97956fb8-aa9b-4af5-985e-a7bbb7b9b4bd)
+
 - Posteriore Beckenwandplatte (Dicke: 2.5mm)
   - 7 Loch, Links
   - 7 Loch, Rechts
   - 8 Loch, Links
   - 8 Loch, Rechts
+ 
+![image](https://github.com/user-attachments/assets/1a3b9c72-f65b-4b4e-8f7a-d7ffe4244647)
+
 - Posteriore Pfeilerplatte (Dicke: 2.5mm)
   - 6 Loch, Links
   - 6 Loch, Rechts
+ 
+![image](https://github.com/user-attachments/assets/36f20af2-76a1-49ae-9aed-2b68b12f1d52)
+
 - Posteriore Beckenwandplatte Erweitert (Dicke: 2.5mm)
   - Platte Small, Rechts
   - Platte Small, Links
   - Platte Large, Rechts
   - Platte Large, Links
 
-
-
-
-
-    
+![image](https://github.com/user-attachments/assets/471c7e46-42fa-4505-8f88-e481c655ff98)   
 
 <!-- 
 page: 13
@@ -163,32 +172,49 @@ page: 13
   - 14 Loch
   - 16 Loch
   - 20 Loch
+ 
+![image psd](https://github.com/user-attachments/assets/ac4f1841-9d83-472b-9c51-7a8a06332074)
+
 - Rim Platte (Dicke: 2.5mm)
   - 14 Loch, Rechts
   - 14 Loch, Links
   - 16 Loch, Rechts
   - 16 Loch, Links
+ 
+![image](https://github.com/user-attachments/assets/9a28f84a-be3c-46f5-b97d-bf2b42c3c359)
+
 - Gerade Platte (Dicke: 3.5mm)
   - 10 Loch
   - 11 Loch
   - 12 Loch
   - 13 Loch
   - 14 Loch
+ 
+![image](https://github.com/user-attachments/assets/637cb67e-0b60-41bd-b3ba-a150bac9bad7)
+
 - Symphysenplatte Gebogen (Dicke: 4mm)
   - 6 Loch
   - 8 Loch
+ 
+![image](https://github.com/user-attachments/assets/73ef71f5-ce4b-479f-b9f1-debe552dfb57)
+
 - Symphysenplatte (Dicke: 4mm)
   - 4 Loch
   - 6 Loch
+ 
+![image](https://github.com/user-attachments/assets/acb92f80-c0d8-4ad7-95ae-4217a660a680)
+
 - ISG Platte (Dicke: 2.5mm)
   - 5 Loch
+ 
+![image](https://github.com/user-attachments/assets/ba7aac4f-bd4a-4e5e-85f5-8b87b9ed6d34)
+
 - ISG Platte (Dicke: 2.5mm)
-Geschlossen
+  - Geschlossen
+
+![image](https://github.com/user-attachments/assets/b8ffec11-8fd8-44f9-b08f-95d3741be523)
 
 Spezielle Plattenbiegevorrichtungen werden mitgeliefert und können verwendet werden, um diese schwereren (dickeren) Platten an die spezifische Anatomie des Patienten anzupassen (siehe S. 29).
-
-
-
     
 
 <!-- 
@@ -204,14 +230,15 @@ Die nichtwinkelstabile 3,5-mm-Kortikalisschrauben für das Kleinfragmentsystem w
 - Tieferes Sechskantprofil Schraubendreher sitzt sicherer in der Schraube
 - Abgerundete Schraubenköpfe minimiert Risiko von Gewebeirritationen
 
+![image](https://github.com/user-attachments/assets/123c4d69-d440-4354-af72-9818218ae7ee)
+
 Ein einzigartiges Merkmal dieses Beckenverplattungssystems ist die Möglichkeit der Verwendung von Verriegelungsschrauben. Zusätzlich zur Aufnahme der oben beschriebenen nicht winkelstabilen 3,5mm Kortikalisschrauben bieten alle runden Schraubenlöcher auch die Möglichkeit, 4,2mm winkelstabile Spongiosaschrauben zu platzieren.
 
 4.2mm winkelstabile Spongiosaschraube:
 - Type II anodisiert verbesserte Ermüdungs- und Abriebeigenschaften (siehe S. 52)
 - Härteres Material als die Platte ermöglicht es dem Schraubenkopf, ein Gewinde in die Platte zu schneiden multidirektional, verriegelnd (innerhalb eines Konus von bis zu ± 15°)
 
-    
-    
+![image](https://github.com/user-attachments/assets/5cf61818-738f-45a5-9b44-ae5bfd7b8717)   
 
 
 # PRS Phoenix - Kleinfragment Indikationen
@@ -222,15 +249,19 @@ page: 15
 -->
 
 - Frakturen der hinteren Wand und des hinteren Pfeilers: Posteriore Beckenwandplatte Erw., Posteriore Beckenwandplatte, Posteriore Pfeilerplatte, Gebogene Platte
+![image](https://github.com/user-attachments/assets/0bcaeda0-0b08-4a50-87cf-65c1464fb31d)
 - Frakturen des vorderen Pfeilers des Acetabulums: Rim Platte, Anteriore Pfeiler Platte, Gebogene Platte
+![image](https://github.com/user-attachments/assets/a9780142-4dba-43b5-a6ca-f71ea3364773)
 - Frakturen der quadrilateralen Fläche: Biplanare 2-Pfeiler Platte, Quadrilaterale Stützplatte, Rim Platte
+![image](https://github.com/user-attachments/assets/de26aa28-4516-4137-8a91-bf085ff298e6)
 - Verletzungen der Symphyse & Para-symphysäre Frakturen: Symphysenplatte, Symphysenplatte, Gebogen
+![image](https://github.com/user-attachments/assets/4a146cef-822f-40c9-8149-eff11faad704)
 - Iliumfrakturen: Gebogene Platte
+![image](https://github.com/user-attachments/assets/46ccbac2-4262-4336-a2b5-bc281767e047)
 - Verletzungen des ISG: ISG Platte geschlossen, ISG Platte 5-Loch
+![image](https://github.com/user-attachments/assets/f0d873c8-1a56-4ff5-a9c1-c67848b0c775)
 - Ilio-Iliacale Distanz-osteosynthese: Gerade Platte
-
-    
-    
+![image](https://github.com/user-attachments/assets/f43bcb53-9781-48e4-ab8a-9eefe416c482)
 
 
 # PRS Phoenix - Großfragmentsystem (B)
@@ -253,21 +284,31 @@ Das System enthält eine Reihe von Biegeschablonen, die am Knochen angelegt und 
   - 12 Loch
   - 14 Loch
   - 16 Loch
+![image](https://github.com/user-attachments/assets/3ba441d1-1ebe-46c1-9751-fa94c756a273)
+![image](https://github.com/user-attachments/assets/b421974d-482a-495e-8b35-395cdcbb7d68)
+
 - Symphysenplatte (Dicke 4mm)
   - 4 Loch
   - 6 Loch
+![image](https://github.com/user-attachments/assets/0ee27446-008c-407c-942f-fe9c64be9149)
+
 - ISG Platte (Dicke 2.5mm)
   - 5 Loch, Links
   - 5 Loch, Rechts
+![image](https://github.com/user-attachments/assets/3cfe2c28-c149-4e61-8442-22d26202c5f0)
+
 - ISG Platte (Dicke 2.5mm)
   - Geschnlossen
+![image](https://github.com/user-attachments/assets/df1bbffa-4a1a-474e-9009-6e5b5205210b)
+
 - Gerade Platte (Dicke 4mm)
   - 10 Loch
   - 11 Loch
   - 12 Loch
   - 13 Loch
   - 14 Loch
-    
+![image](https://github.com/user-attachments/assets/475c49eb-012c-428e-b85b-28c1e23d6de8)
+
 
 <!-- 
 page: 17
@@ -279,15 +320,15 @@ Als Teil des Systems sind sowohl winkelstabile als auch nicht-winkelstabile Schr
 - Nicht winkelstabil, Spongiosa D=5.9
 - Winkelstabil, Spongiosa D=5.9
 - Winkelstabil, Kortikalis D=4.5
+![image](https://github.com/user-attachments/assets/57277e67-99c1-42ba-ab5d-a05b75a436bf)
 
 Das PRS Großfragment-System enthält ein Erweiterungssystem (eine Verbindungsschraube und einen Bolzen), welches die Kombination einer oder mehrerer Platten ermöglicht und so die Behandlung komplexerer Frakturen erleichtert.
+
+![image](https://github.com/user-attachments/assets/f8f5c00c-398f-4819-beeb-02c18ea62bf1)
 
 ## PRS Phoenix - Großfragment Indikationen
 
 Für alle Beckenverletzungen, einschließlich Beckenringverletzungen und Hüftgelenksfrakturen.
-    
-    
-
 
 # PRS Phoenix - Repositionsinstrumente (C)
 
@@ -302,21 +343,22 @@ Das Instrumentarium für das Beckenrekonstruktionssystem enthält sowohl formbar
 Die formbaren Retraktoren können leicht modifiziert werden, z.B. zu einer S-Form, um ein weites, ungehindertes Sichtfeld durch den gewählten Zugang zu ermöglichen. Die breite Oberfläche der Retraktoren ist ideal zum Anbringen eines selbstklebenden Lichtstreifens und sorgt für eine zusätzliche Beleuchtung des Operationsfeldes.
 Die formbaren Retraktoren sind in drei Größen erhältlich: 25 mm, 30 mm und 45 mm.
 
+![image](https://github.com/user-attachments/assets/980bab11-9306-4cb5-bf5a-f6c7c0145fc3)
+
 ## Strahlendurchlässige Retraktoren
 Um die Verwendung der Fluoroskopie ohne Entfernung von Retraktoren zu ermöglichen, sind strahlendurchlässige Hohmann-Retraktoren * Teil der PRS Phoenix Repositionsinstrumente. Diese PEEK-Wundhaken gibt es in vier verschiedenen Varianten:
 Standard, stumpf, schmal gebogen und schmal 90°.
 
+![image](https://github.com/user-attachments/assets/35815e93-abac-43f1-9d39-37d57f4f5b99)
+
 ## Zusätzliche Beleuchtung (Optional)
 Für eine zusätzliche Lichtquelle in der Beckenhöhle bieten wir selbstklebende LED-Lichtstreifen ** mit einer Leuchtdauer von 240 min an. (Einmalgebrauch. Separat erhältlich.)
 
+![image](https://github.com/user-attachments/assets/46e6c5a5-af2c-45dc-9eaa-3150dbcc8f05)
+
 * OrtholucentTM Hohman Regractors von Innomed Inc.
 ** SurgLite LED System von Somatex Medical Technologies GmbH.
-
-
-
-
-
-    
+   
 
 <!-- 
 page: 19
@@ -328,14 +370,21 @@ Das Instrumentarium hat einen universellen Handgriff und verschiedene Aufsätze 
 Die Kronenspitze kann direkt auf dem Knochen platziert werden oder auch direkt in oder auf den Schraubenköpfen, um eine effektive Kraftübertragung während der Frakturreposition zu gewährleisten.
 
 - Universalhandgriff
+![image](https://github.com/user-attachments/assets/d0ebe714-5517-412d-9e85-afa7c7e3f84c)
 - Gerader Aufsatz “Long Reacher”
+![image](https://github.com/user-attachments/assets/b3473560-072f-444a-a33a-2b55b6c81ea7)
 - Jungbluth Aufsatz
+![image](https://github.com/user-attachments/assets/a9187985-f2bd-41e9-bfdf-90bbb0192275)
 - Weber Aufsatz (Entwickelt für perkutane Insertion)
+![image](https://github.com/user-attachments/assets/8e12033d-7f69-40e8-b4a2-88a21fa43129)
 - Gebogener Aufsatz “Gebogene Long Reacher”
+![image](https://github.com/user-attachments/assets/e797aa39-050a-4516-9744-6602228ac6d4)
 - Gewinkelter Aufsatz “Gooseneck”
+![image](https://github.com/user-attachments/assets/650303f8-7b84-4d91-93e2-cf5e0c9dc389)
 - Linearer Hakenaufsatz “Bead-hook Clamp”
+![image](https://github.com/user-attachments/assets/432ef493-49c1-40d9-ad7c-b5b7fa1e5364)
 - Posteriorer Wandaufsatz “Moby Dick”
-    
+![image](https://github.com/user-attachments/assets/a5e57979-b9a7-4d61-8f22-6252091d235b)
 
 <!-- 
 page: 20
@@ -347,12 +396,12 @@ Die Kugelspieße können zusätzlich in den Plattenlöchern verwendet werden, um
 TIPP: Beim Drücken auf abgewinkelte oder weniger zugängliche Knochenbereiche können unikortikale Bohrlöcher angebracht werden, in denen der Kugelspieß verankert werden kann, um ein Abrutschen oder Verschieben zu verhindern.
 TIPP: Eine zusätzliche Feinreposition, nachdem man die Schrauben in den Plattenlöchern festgezogen hat, kann man mit leichten Hammerschlägen auf den in einem freien Plattenloch platzierten Kugelspieß erzielen.
 
+![image](https://github.com/user-attachments/assets/4f57ffea-a7e7-4749-ab21-e23d9411d93b)
+
 ## In Situ Biegeinstrumente
 Das Repositionsinstrumentarium enthält drei spezielle Instrumente zur in-situ Anpassung bzw. Korrektur bereits eingebrachter Kleinfragmentplatten (gerade, schräg und 90°) , um sie an die patientenspezifische Anatomie anzupassen. Die In-Situ Instrumente müssen in benachbarten Löchern verwendet werden. Überspringen Sie keine Löcher, da dies das Risiko einer Lochverformung erhöht.
 
-
-    
-    
+![image](https://github.com/user-attachments/assets/e7cb8269-5e75-4e01-a1ab-1fa4ac9c08b5)    
 
 
 # PRS Phoenix - 8.5 mm kanülierte Schrauben (D)
@@ -370,6 +419,8 @@ Die flachen Schraubenköpfe mit kleinem Durchmesser minimieren die Reizung des W
 eignen sich für minimal-invasive Methoden sowie für die Platzierung durch einen offenen Zugang. Zusätzlich
 enthält das System Beilagscheiben für einen optimalen Kontakt mit der Knochenoberfläche, insbesondere
 bei osteoporotischem Knochen.
+
+![image](https://github.com/user-attachments/assets/37b84eeb-853c-49b8-8247-9557c27b3de4)
 
 ## 8.5 mm kanülierte Schrauben Indikationen
 - Beckenfrakturen
@@ -434,6 +485,8 @@ Markierungen auf dem Griff und den Zinken/Aufsätzen zeigen die richtigen Seiten
 
 Zum Zusammenbau wird jeder Zinken/Aufsatzarm beim Einsetzen in den Universalgriff “eingeklickt”. Nach dem Einrasten sollten die beiden Knöpfe an der Seite des Griffs vollständig herausragen (ca. 4 mm).
 
+![image](https://github.com/user-attachments/assets/e19d8706-e4c6-4f8d-9e8d-02e6e0f47c3d)
+
 ## Jungbluth Zange
 Anwendungsbeispiel:
 Reposition einer Fraktur des hinteren Pfeilers oder einer Os pubis Diastase
@@ -442,6 +495,8 @@ Beispiel Platzierung:
 Platzieren Sie auf jeder Seite der Fraktur eine Schraube. Die beiden Jungbluth Zangenarme unter den Schraubenköpfen einhaken
 und die Fraktur komprimieren
 
+![image](https://github.com/user-attachments/assets/9a5d51df-aedb-40a8-821f-a973a77b5e3b)
+
 ## Weber Zange
 Anwendungsbeispiel:
 Perkutane Symphysenreposition
@@ -449,9 +504,7 @@ Perkutane Symphysenreposition
 Beispiel Platzierung:
 Erstellen Sie zwei anteriore Stichinzisionen, um die beiden Zinken einzuführen, und lassen Sie dabei eine kleine Hautbrücke, um eine Quetschung des dazwischenliegenden Weichgewebes zu vermeiden.
 
-
-
-    
+![image](https://github.com/user-attachments/assets/6f8b1470-00df-4064-a201-33e16bed56bb)
 
 <!-- 
 page: 27
@@ -468,6 +521,8 @@ Arm A: anterolaterale Ecke des Kreuzbeins
 Arm B: posterior am Ilium
 Aktion: Komprimieren einer ISG-Dislokation
 
+![image](https://github.com/user-attachments/assets/baf37ea1-5237-46fa-aeb0-5a61586648ea)
+
 ## Gebogene Zange “Curved Reacher”
 Anwendungsbeispiel:
 Reposition des anterioren Pfeilers
@@ -477,6 +532,7 @@ Arm A: Ischias-Kerbe
 Arm B: anteriorer Pfeiler
 Aktion: Komprimieren einer anterioren Pfeilerfraktur entweder direkt am Knochen oder über eine der vorgesehenen Platten
 
+
 ## Gewinkelte Zange “Goose Neck”
 Anwendungsbeispiel:
 Reposition von verschobenen Transversalfrakturen über den Kocher-Langenbeck-Zugang
@@ -485,7 +541,7 @@ Beispiel Platzierung:
 Arm A: lateral supra-acetabulär am Ilium (unter den Gesäßmuskeln)
 Arm B: quadrilaterale Fläche (hinter der IschiasKerbe)
 
-    
+
 
 <!-- 
 page: 28
