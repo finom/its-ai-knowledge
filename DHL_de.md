@@ -122,8 +122,11 @@ page: 11
 - Anatomische Reposition der Frakturteile an die Platte
 - Anschließende Bildwandlerkontrolle
 
+![image](https://github.com/user-attachments/assets/b2dbf047-408d-40ac-a794-6a7d5b428452)
+
 Optional besteht die Möglichkeit, die Platte mit dem Temporary Plate Holder (58164-150) der Firma ITS. temporär zu fixieren.
 
+![image](https://github.com/user-attachments/assets/7b0df18e-4c56-48a2-b09b-9d80e85202b8)
 
 # Platzieren der Schrauben
 
@@ -134,6 +137,9 @@ page: 12
 Mit dem Spiralbohrer, D=2.7mm, L=100mm, AO-Anschluss (61273-100) durch die Bohrführung, D=2.7/2.0mm (62202) in das Kompressionsloch bohren.
 Entsprechend der gemessenen Länge mit der Schraubenlängenmesslehre, Solide Kleinfragmentschrauben (59022) wird nun eine D=3.5mm Kortikalisschraube (32351-XX) mit dem Schraubenzieher, SW 2.5, mit Selbsthaltehülse (56252) eingebracht.
 
+![image psd](https://github.com/user-attachments/assets/8757f136-4fa8-49f3-9a77-81632378ee6f)
+
+
 <!-- 
 page: 13
 -->
@@ -141,6 +147,7 @@ page: 13
 Anschließend in ein distales und proximales Plattenloch mit dem Spiralbohrer, D=2.5mm, L=180mm bzw. D=2.7mm, L=100mm, AO-Anschluss (61253-180/61273-100) durch die Bohrführung, D=2.7/2.0mm (62202) bohren.
 Entsprechend der gemessenen Länge mit der Schraubenlängenmesslehre, Solide Kleinfragment-schrauben (59022) wird nun eine winkelstabile D=4.2mm Spongiosaschraube (37422-XX-N) oder D=3.5mm Kortikalis-schraube, wahlweise winkelstabil (32351-XX/37351-XX-N), mit dem Schraubenzieher, SW 2.5, mit Selbsthaltehülse (56252) eingebracht.
 
+![image](https://github.com/user-attachments/assets/636ff869-5051-4c2f-9d72-2528a209d5a5)
 
 <!-- 
 page: 14
@@ -148,6 +155,8 @@ page: 14
 
 Danach erfolgt die Belegung der übrigen Plattenlöcher, wahlweise mit winkelstabilen oder nicht winkelstabilen Schrauben.
 Abschließende Kontrolle der Plattenlage im Bildwandler.
+
+![image](https://github.com/user-attachments/assets/91f1447b-5bed-4872-9e7c-a2007e8033b8)
 
 # Nachbehandlung
 
@@ -179,6 +188,8 @@ page: 17
 - Schraubenmaterial (TiAlV) ist etwas härter als das Plattenmaterial (Titanium Grade 2)
 - Schraubenkopf formt ein Gewinde in die Platte (kein Schneiden)
 
+![image](https://github.com/user-attachments/assets/4ebc2807-be74-4ef9-ac32-c5215823e338)
+
 ## Vorteile:
 - ± 15° und Locking
 - Kein zusätzliches Gewindeschneiden
@@ -205,6 +216,8 @@ page: 17
 - Schichtdicke 2000-10 000nm
   + Film wird ein interstitieller Teil des Titans
   - Kein sichtbarer kosmetischer Effekt
+
+![image](https://github.com/user-attachments/assets/b3ca4a91-bc9e-4b18-ae60-76e2a7106fa3)
 
 ## Typ II Anodisierung führt zu folgenden Vorteilen*
 - Sauerstoff und Silizium absorbieren die Konversionsschicht
