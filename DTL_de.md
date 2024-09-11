@@ -118,7 +118,11 @@ page: 10
 
 # Zugang
 
-# Anteriorer Zugang:
+<!--
+page: 10
+-->
+
+## Anteriorer Zugang:
 
 - Hautinzision über der Mittellinie des oberen Sprunggelenks mit Mittelpunkt über dem Gelenkspalt
 - Die Inzision sollte 1-2cm abseits der Fraktur erfolgen, damit sich die Naht nicht unmittelbar über der Platte befindet.
@@ -161,8 +165,6 @@ Tipp: Um die Platte optimal an die Länge der Tibia anzupassen, empfiehlt es sic
 
 ![image](https://github.com/user-attachments/assets/53fdbc16-4431-4f03-b459-e57c2c2701cf)
 
-# Bohr- und Schraubvorgang
-
 <!--
 page: 13
 -->
@@ -173,8 +175,6 @@ Entsprechend der gemessenen Länge mit der Schraubenlängenmesslehre, Solide Kle
 
 ![image](https://github.com/user-attachments/assets/a2a86039-cfaa-4b74-89c8-479141d03081)
 
-# Bohr- und Schraubvorgang
-
 <!--
 page: 14
 -->
@@ -184,8 +184,6 @@ Mit dem Spiralbohrer, D=2.7mm, L=100mm, AO-Anschluss (61273-100) durch die Bohrf
 Entsprechend der gemessenen Länge mit der Schraubenlängenmesslehre, Solide Kleinfragmentschrauben (59022) wird nun eine D=3.5mm Kortikalisschraube (32351-XX) mit dem Schraubenzieher, SW 2.5, mit Selbsthaltehülse (56252) eingebracht.
 
 ![image](https://github.com/user-attachments/assets/2a6ca506-af15-4236-ba85-c66676de4c26)
-
-# Bohr- und Schraubvorgang
 
 <!--
 page: 15
@@ -210,6 +208,10 @@ page: 16
 - Bei winkelstabiler Verschraubung ist darauf zu achten, dass Pseudoarthrose sehr spät diagnostiziert werden kann
 
 # Explantation
+
+<!--
+page: 16
+-->
 
 Abhängig vom Patientenwunsch ist eine Entfernung möglich. Entfernung des Implantates nicht vor 1/2 - 11/2 Jahren bzw. nach radiologisch verifizierter Knochenheilung.
 
@@ -237,6 +239,10 @@ page: 19
 - Wiedereinschrauben der Schraube (bis zu drei mal)
 
 # Dotize®
+
+<!--
+page: 19
+-->
 
 ## Chemischer Prozess - anodische Oxidation in einer starken alkalischen Lösung*
 
@@ -329,7 +335,7 @@ page: 20
 # Siebe
 
 <!--
-page: 22
+page: 21
 -->
 
 ![image](https://github.com/user-attachments/assets/ef56c05c-ef67-40c3-879d-5b10b8d4daae)
