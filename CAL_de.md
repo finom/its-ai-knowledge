@@ -48,11 +48,11 @@ page: 6
 
 # Eigenschaften
 
-|<!--
+<!--
 page: 7
 -->
 
-# Materialeigenschaften:
+## Materialeigenschaften:
 
 - Plattenmaterial: Titan
 - Schraubenmaterial: TiAl6V4 ELI
@@ -61,7 +61,7 @@ page: 7
 - Verminderung der Gefahr der Kaltverschweißung
 - Verminderung des Entzündungs- und Allergierisikos
 
-# Implantateigenschaften:
+## Implantateigenschaften:
 
 - Multidirektionale Winkelstabilität
 - Anatomisch geformt
@@ -98,7 +98,7 @@ page: 8
 page: 9
 -->
 
-## Lagerung des Patienten
+# Lagerung des Patienten
 
 <!--
 page: 10
@@ -107,7 +107,11 @@ page: 10
 - Rückenlage mit Keil oder Seitenlage
 - Blutsperre
 
-## Diagnostik
+# Diagnostik
+
+<!--
+page: 10
+-->
 
 Standard-Röntgenaufnahmen des Fersenbeines, axiales und coronares CT mit Rekonstruktionen.
 
@@ -118,7 +122,7 @@ Standard-Röntgenaufnahmen des Fersenbeines, axiales und coronares CT mit Rekons
 page: 11
 -->
 
-# Ausgedehnter lateraler Zugang:
+## Ausgedehnter lateraler Zugang:
 
 - Subperiostal einschichtiges Anheben eines lateralen Haut-Weichteil-Fascienlappens.
 - Weghalten des Lappens mittels umgebogener Bohrdrähte.
@@ -126,6 +130,10 @@ page: 11
 ![image](https://github.com/user-attachments/assets/bbd4f308-91b3-4dfc-b046-3ae07fe372cd)
 
 # Reposition
+
+<!--
+page: 11
+-->
 
 - Offene Reposition unter Sicht mittels Schanzschrauben, Steinmannnägel, Bohrdrähten
 - Unterfüttern von Trümmerzonen mit Knochenersatz
@@ -156,6 +164,10 @@ page: 13
 
 # Explantation
 
+<!--
+page: 13
+-->
+
 Abhängig vom Patientenwunsch ist eine Entfernung möglich. Entfernung des Implantates nicht vor 11/2 Jahren bzw. nach radiologisch verifizierter Knochenheilung.
 
 Die Problematik der Kaltverschweißung konnte durch die spezielle Oberflächenbehandlung beseitigt werden (für genauere Informationen siehe Seite 15).
@@ -167,14 +179,14 @@ Die Problematik der Kaltverschweißung konnte durch die spezielle Oberflächenbe
 page: 15
 -->
 
-# Funktionsweise von Locking:
+## Funktionsweise von Locking:
 
 - Schraubenmaterial (TiAlV) ist etwas härter als das Plattenmaterial (Titanium Grade 2)
 - Schraubenkopf **formt** ein Gewinde in die Platte (kein Schneiden)
 
 ![image](https://github.com/user-attachments/assets/6ca66982-e606-4160-a60b-08a0b0ed4cbb)
 
-# Vorteile:
+## Vorteile:
 
 - ± 15° und Locking
 - Kein zusätzliches Gewindeschneiden
@@ -182,9 +194,13 @@ page: 15
 - Kein Materialabrieb beim Einschrauben
 - Wiedereinschrauben der Schraube (bis zu drei mal)
 
-BILD
+![image](https://github.com/user-attachments/assets/72c8f7b2-5d99-45c7-b3d3-1f31bb816c13)
 
 # Dotize®
+
+<!--
+page: 15
+-->
 
 ## Chemischer Prozess - anodische Oxidation in einer starken alkalischen Lösung*
 
