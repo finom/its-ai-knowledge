@@ -79,6 +79,10 @@ page: 7
 
 # Präoperative Schraubenlängenbestimmung
 
+<!--
+page: 7
+-->
+
 - Röntgenbild mit 50mm Kalibrierplatte erstellen
 - Länge der Kalibrierplatte (LKP) auf dem Röntgenbild abmessen
 - Knochenbreite (KB) am Röntgenbild abmessen
@@ -114,6 +118,12 @@ page: 8
 - Primär: In den ersten Stunden nach dem Trauma
 - Sekundär: Nach Abschwellen, zwischenzeitlich Fixation durch Fixateur Externe oder Extension
 
+# Operationstechnik
+
+<!--
+page: 9
+-->
+
 # Lagerung des Patienten
 
 <!--
@@ -126,9 +136,17 @@ page: 10
 
 # Montage Zielgerät
 
+<!--
+page: 10
+-->
+
 ![image](https://github.com/user-attachments/assets/153a66d7-7d29-4870-b8a3-65ae593e1c5b)
 
 # Montage Zielinstrument
+
+<!--
+page: 10
+-->
 
 ![image](https://github.com/user-attachments/assets/7588c4a6-253c-413c-af24-e7fbf08f3b2e)
 
@@ -144,6 +162,10 @@ page: 11
 - Anschließende Röntgenkontrolle
 
 # Zugang
+
+<!--
+page: 11
+-->
 
 ## Extraartikuläre Frakturen:
 
@@ -243,6 +265,7 @@ Anschließend mit der Bohrführung, D=2.5/3.5mm (62252) und dem D=3.5mm Spiralbo
 ![image](https://github.com/user-attachments/assets/76d00ef8-69ab-444b-93b6-be8ee4cec76a)
 
 # Platzieren der Schrauben
+
 <!--
 page: 18
 -->
@@ -250,7 +273,6 @@ page: 18
 Danach werden 2-3 D=4.5mm Kortikalisschrauben optional winkelstabil (32455-XX/37455-XX) proximal im Schaft eingebracht. Hierfür wird der D=3.2mm Spiralbohrer (61324-280) verwendet. Das Bohren erfolgt ebenfalls durch die in die Gewebeschutzhülse (118003-11) eingeführte Bohrhülse D=3.6mm (118003-10). Anschließend wird die Bohrhülse entfernt und entsprechend der gemessenen Länge die passende Schraube durch die Gewebeschutzhülse eingebracht.
 
 ![image](https://github.com/user-attachments/assets/902d745f-e764-4c1c-b249-0459620850b7)
-
 
 <!--
 page: 19
@@ -291,6 +313,10 @@ page: 21
 
 # Explantation
 
+<!--
+page: 21
+-->
+
 - Abhängig vom Patientenwunsch ist eine Entfernung möglich. Erleichtert wird diese aufgrund der Tatsache, dass durch die unterschiedlichen Materialien von Platte und Schrauben keine Kaltverschweißung auftreten kann.
 - Entfernung 6 Monate post-OP nach erfolgreicher Frakturheilung, vice versa zur Implantation
 - Inzision im Verlauf der alten Narbe
@@ -299,6 +325,10 @@ page: 21
 - Die Problematik der Kaltverschweißung konnte durch die spezielle Oberflächenbehandlung beseitigt werden (für genauere Informationen siehe Seite 23)
 
 # Zusammenfassung
+
+<!--
+page: 21
+-->
 
 Das neu entwickelte LRS System - Locking Reconstruction System - ermöglicht die Versorgung von gelenksnahen Frakturen durch ein minimal invasives Verfahren. Die Besonderheit dieses Implantates liegt in der individuellen frei wählbaren Lochbelegung. Es ermöglicht dem Anwender jedes Plattenloch mit der gewünschten Schraube, optional winkelstabil nicht winkelstabil, zu belegen.<!--page: 22-->Informationen
 
@@ -324,6 +354,10 @@ page: 23
 - Wiedereinschrauben der Schraube (bis zu drei mal)
 
 # Dotize®
+
+<!--
+page: 23
+-->
 
 ## Chemischer Prozess - anodische Oxidation in einer starken alkalischen Lösung*
 
@@ -469,7 +503,7 @@ page: 26
 |Zielgerät Distale Femurplatte|118003|
 |Sterilisationssieb, Distale Femurplatte|50206|
 
-# Ersatzteilliste Zielgerät / Optional (auf Anfrage)
+## Ersatzteilliste Zielgerät / Optional (auf Anfrage)
 
 |Bezeichnung|Artikelnummer|
 |---|---|
@@ -490,7 +524,7 @@ page: 26
 |Feder f. Druckbolzen|118003-15|
 |Haltehülse|118003-16|
 
-# Sondergrößen & -instrumente optional auf Anfrage *
+## Sondergrößen & -instrumente optional auf Anfrage *
 
 |Bezeichnung|Artikelnummer|
 |---|---|
