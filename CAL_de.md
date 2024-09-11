@@ -194,8 +194,6 @@ page: 15
 - Kein Materialabrieb beim Einschrauben
 - Wiedereinschrauben der Schraube (bis zu drei mal)
 
-![image](https://github.com/user-attachments/assets/72c8f7b2-5d99-45c7-b3d3-1f31bb816c13)
-
 # Dotize®
 
 <!--
