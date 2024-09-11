@@ -378,7 +378,7 @@ page: 23
 
 ![image](https://github.com/user-attachments/assets/d767dccd-7089-4363-86b5-feda5d350db4)
 
-# Typ II Anodisierung führt zu folgenden Vorteilen*
+## Typ II Anodisierung führt zu folgenden Vorteilen*
 
 - Sauerstoff und Silizium absorbieren die Konversionsschicht
 - Verminderung der Proteinadsorption
@@ -389,7 +389,7 @@ page: 23
 - Verbesserte Ermüdungsfestigkeit der Implantate
 - Verbesserte Verschleiß- und Reibungsmerkmale
 
-* White Paper: Ti6Al4V with Anodization Type II: Biological Behavior and Biomechanical Effects; Axel Baumann, Nils Zander
+*White Paper: Ti6Al4V with Anodization Type II: Biological Behavior and Biomechanical Effects; Axel Baumann, Nils Zander
 
 # Artikelliste
 
